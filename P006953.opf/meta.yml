@@ -3,5 +3,47 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG10720
   title: གསུང་འབུམ། འཇམ་དབྱངས་འཕྲིན་ལས། ༼དབུས་པར།༽
-  volume: ''
+  volume:
+    d30c379c9d474bd8bf7a980177438144:
+      image_group_id: I1KG10722
+      title: Volume 1 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      volume_number: 1
+      total_pages: 665
+    c69b388fd0284a489ef82add223e045b:
+      image_group_id: I1KG10723
+      title: Volume 2 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      volume_number: 2
+      total_pages: 672
+    d6a4e895971a4f2c979b218c7fc31c21:
+      image_group_id: I1KG10724
+      title: Volume 3 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      volume_number: 3
+      total_pages: 704
+    4ef224186e06482a93099959a81024ac:
+      image_group_id: I1KG10725
+      title: Volume 4 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      volume_number: 4
+      total_pages: 692
+    623377eea2dd4924adc0e0b93a295fad:
+      image_group_id: I1KG10726
+      title: Volume 5 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      volume_number: 5
+      total_pages: 652
+    f578f100cbf24470900b47c99a097fcb:
+      image_group_id: I1KG10727
+      title: Volume 6 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      volume_number: 6
+      total_pages: 762
+    c0e222d7077244d99a20e5d23011baea:
+      image_group_id: I1PD153371
+      title: ''
+      volume_number: 7
+      total_pages: 722
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། འཇམ་དབྱངས་འཕྲིན་ལས། ༼དབུས་པར།༽
+  author: ''
+  sku: P006953
+  cover: cover.jpg
+  layers:
+  - pagination
