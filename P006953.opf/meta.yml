@@ -5,41 +5,48 @@ source_metadata:
   title: གསུང་འབུམ། འཇམ་དབྱངས་འཕྲིན་ལས། ༼དབུས་པར།༽
   author: ''
   volumes:
-    f876c65b5155425a85ad3bdb05a8c27b:
+    d30c379c9d474bd8bf7a980177438144:
       image_group_id: I1KG10722
-      title: ''
+      title: Volume 1 of dkyil chog nor bu'i phreng ba/ (dbus par/)
       volume_number: 1
       total_pages: 665
-    c9728500a7624fff95979b14fd7285fc:
+      base_file: v001.txt
+    c69b388fd0284a489ef82add223e045b:
       image_group_id: I1KG10723
-      title: ''
+      title: Volume 2 of dkyil chog nor bu'i phreng ba/ (dbus par/)
       volume_number: 2
       total_pages: 672
-    e77cfae4116b4854b31e65df447956ef:
+      base_file: v002.txt
+    d6a4e895971a4f2c979b218c7fc31c21:
       image_group_id: I1KG10724
-      title: ''
+      title: Volume 3 of dkyil chog nor bu'i phreng ba/ (dbus par/)
       volume_number: 3
       total_pages: 704
-    65c127357abf478e806cf12ba9c4e906:
+      base_file: v003.txt
+    4ef224186e06482a93099959a81024ac:
       image_group_id: I1KG10725
-      title: ''
+      title: Volume 4 of dkyil chog nor bu'i phreng ba/ (dbus par/)
       volume_number: 4
       total_pages: 692
-    9941f922600a4086a6584e4609ce849c:
+      base_file: v004.txt
+    623377eea2dd4924adc0e0b93a295fad:
       image_group_id: I1KG10726
-      title: ''
+      title: Volume 5 of dkyil chog nor bu'i phreng ba/ (dbus par/)
       volume_number: 5
       total_pages: 652
-    7847834ea4d8413588864423699ec53e:
+      base_file: v005.txt
+    f578f100cbf24470900b47c99a097fcb:
       image_group_id: I1KG10727
-      title: ''
+      title: Volume 6 of dkyil chog nor bu'i phreng ba/ (dbus par/)
       volume_number: 6
       total_pages: 762
-    6b94dc75e5914379b5f218eef346681d:
+      base_file: v006.txt
+    c0e222d7077244d99a20e5d23011baea:
       image_group_id: I1PD153371
       title: ''
       volume_number: 7
       total_pages: 722
+      base_file: v007.txt
 ebook_metadata:
   title: གསུང་འབུམ། འཇམ་དབྱངས་འཕྲིན་ལས། ༼དབུས་པར།༽
   author: ''
