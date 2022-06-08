@@ -1,53 +1,63 @@
-id: P006953
+id: I64ABE17E
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 29/03/2020
-last_modified_at: 2021-12-17 12:32:37.522374
+imported: '2020-03-29T02:44:47+00:00'
+last_modified: '2022-06-08T12:54:00.007243+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W1KG10720
   title: གསུང་འབུམ། འཇམ་དབྱངས་འཕྲིན་ལས། ༼དབུས་པར།༽
   author: ''
-  volumes:
-    d30c379c9d474bd8bf7a980177438144:
-      image_group_id: I1KG10722
-      title: Volume 1 of dkyil chog nor bu'i phreng ba/ (dbus par/)
-      volume_number: 1
-      total_pages: 665
-      base_file: v001.txt
-    c69b388fd0284a489ef82add223e045b:
-      image_group_id: I1KG10723
-      title: Volume 2 of dkyil chog nor bu'i phreng ba/ (dbus par/)
-      volume_number: 2
-      total_pages: 672
-      base_file: v002.txt
-    d6a4e895971a4f2c979b218c7fc31c21:
-      image_group_id: I1KG10724
-      title: Volume 3 of dkyil chog nor bu'i phreng ba/ (dbus par/)
-      volume_number: 3
-      total_pages: 704
-      base_file: v003.txt
-    4ef224186e06482a93099959a81024ac:
-      image_group_id: I1KG10725
-      title: Volume 4 of dkyil chog nor bu'i phreng ba/ (dbus par/)
-      volume_number: 4
-      total_pages: 692
-      base_file: v004.txt
-    623377eea2dd4924adc0e0b93a295fad:
-      image_group_id: I1KG10726
-      title: Volume 5 of dkyil chog nor bu'i phreng ba/ (dbus par/)
-      volume_number: 5
-      total_pages: 652
-      base_file: v005.txt
-    f578f100cbf24470900b47c99a097fcb:
-      image_group_id: I1KG10727
-      title: Volume 6 of dkyil chog nor bu'i phreng ba/ (dbus par/)
-      volume_number: 6
-      total_pages: 762
-      base_file: v006.txt
-    c0e222d7077244d99a20e5d23011baea:
-      image_group_id: I1PD153371
-      title: ''
-      volume_number: 7
-      total_pages: 722
-      base_file: v007.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    5C11:
+      image_group_id: I1KG10722
+      title: Volume 1 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      total_pages: 665
+      order: 1
+      base_file: 5C11.txt
+    63AB:
+      image_group_id: I1KG10723
+      title: Volume 2 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      total_pages: 672
+      order: 2
+      base_file: 63AB.txt
+    F4C1:
+      image_group_id: I1KG10724
+      title: Volume 3 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      total_pages: 704
+      order: 3
+      base_file: F4C1.txt
+    '3119':
+      image_group_id: I1KG10725
+      title: Volume 4 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      total_pages: 692
+      order: 4
+      base_file: 3119.txt
+    8C8D:
+      image_group_id: I1KG10726
+      title: Volume 5 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      total_pages: 652
+      order: 5
+      base_file: 8C8D.txt
+    82A0:
+      image_group_id: I1KG10727
+      title: Volume 6 of dkyil chog nor bu'i phreng ba/ (dbus par/)
+      total_pages: 762
+      order: 6
+      base_file: 82A0.txt
+    AE35:
+      image_group_id: I1PD153371
+      title: ''
+      total_pages: 722
+      order: 7
+      base_file: AE35.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
